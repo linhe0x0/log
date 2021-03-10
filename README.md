@@ -1,2 +1,3 @@
-# logger
-A wrapped pino, with structured logging.
+# log
+
+A wrapped [pino](https://github.com/pinojs/pino), with support for structured logging.
